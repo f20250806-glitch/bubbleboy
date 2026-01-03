@@ -71,7 +71,7 @@ function App() {
             <Globe size={20} className="text-white" />
           </div>
           <h1 className="text-xl font-bold tracking-tight bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
-            Global Recession Monitor
+            Bubble Boy: Global Recession Monitor
           </h1>
         </div>
         <div className="flex items-center gap-4">
